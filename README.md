@@ -6,12 +6,6 @@ An advanced IoT system that monitors and optimizes plant microclimates while mat
 
 <img src="banner.png.jpg" alt="BIO SYMBIOT Banner" width="100%">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Platform](https://img.shields.io/badge/Platform-ESP8266-blue.svg)
-![MATLAB](https://img.shields.io/badge/MATLAB-R202x-orange.svg)
-![PCB](https://img.shields.io/badge/PCB-KiCad-8A2BE2.svg)
-![Arduino](https://img.shields.io/badge/Firmware-Arduino-green.svg)
-
 ---
 
 Abstract
@@ -61,4 +55,4 @@ The system validates a novel dual-bridge asymmetric weighting model for bio-symb
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
