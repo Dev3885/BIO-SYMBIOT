@@ -4,7 +4,7 @@
 
 An advanced IoT system that monitors and optimizes plant microclimates while mathematically quantifying the symbiotic relationship between tree biological resonance and human limbic well-being in a shared environment for regulation of the same towards overall health and tranquility.
 
-![Project Banner](https://via.placeholder.com/800x400?text=BIO+SYMBIOT) <!-- Replace with actual banner -->
+![Project Banner](banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP8266](https://img.shields.io/badge/Platform-ESP8266-blue.svg)]()
